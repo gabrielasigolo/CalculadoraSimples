@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\bin\Debug\Projeto Calculadora.exe.config
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\bin\Debug\Projeto Calculadora.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\bin\Debug\Projeto Calculadora.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto Calculadora.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto_Calculadora.Calculadora.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto_Calculadora.Properties.Resources.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto Calculadora.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto Calculadora.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Prog em Banco de Dados\Projeto Calculadora\obj\Debug\Projeto Calculadora.pdb
